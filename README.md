@@ -2,7 +2,7 @@
 ### It's ME 👋
 INFP.
 
-just married with my ![beloved ENFJ](https://github.com/imaginaryENFJwomanITenthusiast) partner.
+just married with my [beloved ENFJ](https://github.com/imaginaryENFJwomanITenthusiast) partner.
 soooo happy...
 
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
